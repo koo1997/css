@@ -1,0 +1,4 @@
+none : 보이지 않음
+block : 블록 박스
+inline : 인라인 박스
+inline-block : block과 inline의 중간 형태
