@@ -1,0 +1,11 @@
+/* 한 줄의 글을 작성하는 방향대로 */
+flex-direction: row;
+
+/* <row>처럼, 대신 역방향 */
+flex-direction: row-reverse;
+
+/* 글 여러 줄이 쌓이는 방향대로 */
+flex-direction: column;
+
+/* <column>처럼, 대신 역방향 */
+flex-direction: column-reverse;
